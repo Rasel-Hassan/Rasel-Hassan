@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rasel-Hassan
-- 👀 I’m interested in ... coding languege
+- 👀 I’m interested in ... coding language
 - 🌱 I’m currently learning ... Flutter
 - 💞️ I’m looking to collaborate on ... web developers
 - 📫 How to reach me ... email me on raselhassan711@gmail.com
